@@ -1,5 +1,5 @@
 # \[Experimental\]A more portable timesync over http(s)
-** This is an experimental software. May contain bugs or security risks **
+**This is an experimental software. May contain bugs or security risks**
 
 By default,NTP connection is not authenticated and not encrypted.
 Htpdate Aims to solve this plobrem using HTTP(S).
@@ -33,8 +33,8 @@ Most Linux comes with Busybox or(and) Coreutils installed by default, so you don
 
 ## Based on
 [htpdate](www.vervest.org/htp)
-[Tails fork]https://gitlab.tails.boum.org/tails/htp
-[madaidan's secure-time-sync]https://gitlab.com/madaidan/secure-time-sync
+[Tails fork](https://gitlab.tails.boum.org/tails/htp)
+[madaidan's secure-time-sync](https://gitlab.com/madaidan/secure-time-sync)
 
 ## License
 [GPLv3](https://www.gnu.org/copyleft/gpl.html)
